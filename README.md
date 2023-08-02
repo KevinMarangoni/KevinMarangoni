@@ -17,16 +17,6 @@
 
 <br>
 
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMarangoni&layout=compact&theme=vue-dark)
-
-## StreakStats 🚀
-[![GitHub Streak](https://streak-stats.demolab.com?user=KevinMarangoni&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
- ## Pontuação
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinMarangoni&show_icons=true&count_private=true&theme=vue-dark)
-
 ## About me 😃
 
 I am Kevin Pereira Marangoni, a passionate Fullstack Developer with experience in various technologies. I love working with Next.js for frontend development and Express for backend. Styled Components is my go-to choice for styling web applications. I am proficient in JavaScript and TypeScript and enjoy working with Node.js for server-side applications. I also have experience with databases like MongoDB and MySQL.
@@ -37,6 +27,17 @@ If you are looking for someone to collaborate with or have any exciting projects
 
 - 🔭 I’m currently working on various Fullstack projects
 - 🌱 I’m currently learning more about DevOps and CI/CD
+
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinMarangoni&layout=compact&theme=vue-dark)
+
+## StreakStats 🚀
+[![GitHub Streak](https://streak-stats.demolab.com?user=KevinMarangoni&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+ ## Stats
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinMarangoni&show_icons=true&count_private=true&theme=vue-dark)
 
 <br>
 
