@@ -45,6 +45,7 @@ If you are looking for someone to collaborate with or have any exciting projects
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-marangoni-1a3a17127/)
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://www.kevinmarangoni.com)
+[![Resume](https://img.shields.io/badge/Curr%C3%ADculo-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://www.kevinmarangoni.com/print/pt-BR)
 
 <br>
 <br>
