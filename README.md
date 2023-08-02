@@ -19,7 +19,9 @@
 
 ## About me 😃
 
-I am Kevin Pereira Marangoni, a passionate Fullstack Developer with experience in various technologies. I love working with Next.js for frontend development and Express for backend. Styled Components is my go-to choice for styling web applications. I am proficient in JavaScript and TypeScript and enjoy working with Node.js for server-side applications. I also have experience with databases like MongoDB and MySQL.
+<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
+I am <strong>Kevin Pereira Marangoni</strong>, a passionate <strong>Fullstack Developer</strong> with experience in various technologies. I love working with Next.js for frontend development and Express for backend. Styled Components is my go-to choice for styling web applications. I am proficient in JavaScript and TypeScript and enjoy working with Node.js for server-side applications. I also have experience with databases like MongoDB and MySQL.
 
 I am always eager to learn new technologies and keep myself updated with the latest trends in web development. Open source projects interest me, and I like to contribute to the community whenever possible.
 
